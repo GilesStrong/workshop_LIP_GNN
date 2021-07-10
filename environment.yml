@@ -1,4 +1,4 @@
-name: lumin
+name: gnn_tutorial
 channels:
   - conda-forge
   - defaults
