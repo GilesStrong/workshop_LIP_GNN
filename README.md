@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GilesStrong/workshop_LIP_GNN/blob/main/GravNet_for_top_tagging.ipynb)
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5089906.svg)](https://doi.org/10.5281/zenodo.5089906) -->
+[![DOI](https://zenodo.org/badge/384403032.svg)](https://zenodo.org/badge/latestdoi/384403032)
 
 # GRAPH-NETS IN HEP: A PRACTICAL TUTORIAL
 
